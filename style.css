@@ -179,7 +179,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office.jpg);
+    url(/images/peopleoffice.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -244,22 +244,22 @@ img {
 }
 
 .antenna::before {
-  background-image: url(../images/antenna-1.svg);
+  background-image: url(/images/antenna.svg);
   background-repeat: no-repeat;
 }
 
 .clock::before {
-  background-image: url(../images/clock-1.svg);
+  background-image: url(/images/clock.svg);
   background-repeat: no-repeat;
 }
 
 .diagram::before {
-  background-image: url(../images/diagram-1.svg);
+  background-image: url(/images/diagram.svg);
   background-repeat: no-repeat;
 }
 
 .astronaut::before {
-  background-image: url(../images/astronaut-1.svg);
+  background-image: url(/images/astronaut.svg);
   background-repeat: no-repeat;
 }
 
@@ -1317,7 +1317,7 @@ label.modal-contacts-checkbox {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/header-responsive/people-office-mob-@2x.jpg);
+      url(/images/header-responsive/people-officetab@2x.jpg);
   }
 }
 
@@ -1328,7 +1328,7 @@ label.modal-contacts-checkbox {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/header-responsive/people-office-tab-@1x.jpg);
+      url(/images/header-responsive/peopleofficetab@1x.jpg);
   }
 
   @media (min-device-pixel-ratio: 2),
@@ -1339,7 +1339,7 @@ label.modal-contacts-checkbox {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/header-responsive/people-office-tab-@2x.jpg);
+        url(/images/header-responsive/peopleofficetab@2x.jpg);
     }
   }
 }
@@ -1351,7 +1351,7 @@ label.modal-contacts-checkbox {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/header-responsive/people-office-@1x.jpg);
+      url(/images/header-responsive/peopleoffice@1x.jpg);
   }
 
   @media (min-device-pixel-ratio: 2),
@@ -1362,7 +1362,7 @@ label.modal-contacts-checkbox {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/header-responsive/people-office-@2x.jpg);
+        url(/images/header-responsive/peopleoffice@2x.jpg);
     }
   }
 }
