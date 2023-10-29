@@ -107,7 +107,6 @@ img {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-
 .navigation-bar .link:focus,
 .navigation-bar .link:hover {
   background-color: var(--white);
@@ -120,7 +119,6 @@ img {
   width: 100%;
   opacity: 1;
 }
-
 .navigation-item .current {
   color: var(--iris);
 }
@@ -145,7 +143,6 @@ img {
   margin-left: auto;
   gap: 40px;
 }
-
 .contacts-item,
 .link {
   color: var(--navyblue);
@@ -155,7 +152,6 @@ img {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-
 .contacts-item .link:focus,
 .contacts-item .link:hover {
   background-color: var(--white);
